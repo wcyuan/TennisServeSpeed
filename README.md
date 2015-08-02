@@ -18,4 +18,4 @@ from http://docs.opencv.org/doc/tutorials/introduction/linux_install/linux_insta
 > make
 > sudo make install
 
-
+The videos come from https://www.youtube.com/watch?v=8MmC8HIC44o
